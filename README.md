@@ -27,6 +27,3 @@ Quisque eget malesuada tellus. Vivamus efficitur lectus sem, in laoreet ex lacin
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi lorem metus, egestas id eros id, pharetra suscipit sem. Donec vel arcu ut ipsum porta mattis nec at erat. Aenean nec ante eu purus scelerisque consectetur ut sodales elit. Suspendisse risus lectus, lacinia vel semper vel, blandit non risus. Quisque dapibus, turpis eget auctor pretium, nunc urna venenatis risus, accumsan rhoncus dui mauris ut ex. Praesent elementum metus ipsum, non feugiat ante aliquet ut. Nam pulvinar arcu nunc, a pulvinar odio ullamcorper id. In semper et nisl convallis pellentesque. Phasellus blandit commodo blandit. Cras mauris nibh, cursus in nulla et, convallis volutpat augue. Donec eu ultricies leo. Donec a turpis id lacus ullamcorper maximus eu in massa. Vivamus ac orci id odio lobortis scelerisque.
 
 Quisque eget dui a massa vehicula pharetra vel sit amet dui. Nullam ut leo id nisi ultricies scelerisque. Etiam ut suscipit elit. Duis erat turpis, dictum in elit fringilla, porttitor pulvinar tortor. Nulla pharetra a neque efficitur faucibus. Duis ut sapien quis augue posuere tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu elit neque. Nulla diam sem, cursus id euismod quis, convallis nec lectus. Donec a eleifend neque.
-
-
-
